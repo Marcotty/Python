@@ -1,0 +1,4 @@
+Riz(700g) enStock: True
+Poulet(650g) enStock: True
+Poivrons(600g) enStock: True
+Carottes(600g) enStock: True
